@@ -1,0 +1,9 @@
+.all{
+    display: flex;
+    border: 2px solid;
+    border-radius: 30px;
+    background-color: aliceblue;
+}
+.half{
+    background-color: blue;
+}
